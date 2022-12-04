@@ -1,0 +1,207 @@
+#all{
+    margin: 0px auto;
+    width:1200px;
+}
+#banner{
+    font-family:'Times New Roman',Times,serif;
+    font-size:16px;
+}
+
+#banner h1{
+    text-align:center;
+    font-size: 3.5em;
+    font-weight:900;  
+    font-family: sans-serif;
+}
+
+#banner h2{
+    text-align:center;
+    font-size: 1.5em;
+    font-weight:700;  
+    font-family: sans-serif;
+}
+
+#header{
+    border: 1px;
+    background-color:bisque;	
+	width: auto;
+	padding: 60px;
+	padding-top:30px;
+	padding-bottom:30px;
+	background: url(http://www.imshealth.com/files/web/Images%20Common/background-Abstractnetwork-contactpanel.jpg) no-repeat fixed ; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+	text-align:center;
+}
+
+#pic1{
+    width:600px;
+    height:300px;
+    margin:0px auto;
+    margin-bottom:50px;
+    float:left;
+}
+
+#pic2{
+   width:600px;
+   height:300px;
+   margin:0px auto;
+   margin-bottom:50px;
+   float:left;
+}
+
+#main{
+   background-color:bisque;
+   width:1200px;
+   height:100%;
+}
+
+#videoh{
+   
+   color:sienna;
+   margin:0px auto;
+   margin-left:100px;
+   width:1200px;
+   float:left;
+   clear:noth;
+   font-weight:700;
+   font-size:2em;
+   font-family:"Open Sans Condensed",Helvetica,Arial,sans-serif;
+}
+
+embed{
+   margin:20px;
+   padding-top:60px;
+}
+
+span{
+   font-family:"Comic Sans MS", cursive, sans-serif;
+   font-size:30px;
+   margin-left:15px;
+   margin-right:3px;
+}
+
+#videop1{
+   align:left;
+   margin-top:30px;
+   margin-bottom:30px;
+   font-size: 19px;
+   color:black;
+}
+
+#listp{
+   align:left;
+   padding-left:60px;
+   margin-bottom:30px;
+   font-size: 19px;
+   color:black;
+}
+
+#videop2{
+   align:left;
+   margin-top:30px;
+   margin-bottom:50px;
+   font-size: 19px;
+   color:black;
+}
+
+#main h2{
+   color:sienna;
+   margin:0px auto;
+   margin-left:5px;
+   width:1200px;
+   float:left;
+   clear:noth;
+   font-weight:700;
+   font-size:2em;
+   font-family:"Open Sans Condensed",Helvetica,Arial,sans-serif;
+}
+
+#main h6{
+	margin-left:40%;
+	font-size:1em;
+   font-family:"Open Sans Condensed",Helvetica,Arial,sans-serif;
+}
+
+#main h5{
+	margin-left:70%;
+	font-size:1em;
+   font-family:"Open Sans Condensed",Helvetica,Arial,sans-serif;
+}
+#main p{
+   text-align:left;
+   margin-left:25px;
+   margin-right:15px;
+}
+
+table{
+   background-color:white;
+   font-family:"Palatino Linotype", "Book Antiqua", Palatino, serif;
+   width:100%
+}
+
+th{
+   border:1px solid black;
+   margin:0px auto;
+}
+
+#thp{
+   width:800px;
+}
+
+ol,ul{
+   text-align:left;
+   width:800px;
+}
+
+#pic3{
+   width:440px;
+   height:186px;
+   float:right;
+}
+
+#pic4{
+   width:465px;
+   height:300px;
+   float:right;
+}
+	
+#bottom{
+   width: 1160px;
+   padding: 20px;
+   padding-bottom:5px;
+   background-color: #fdb827;
+   text-align:center;
+   font-size:0.9em;
+   font-weight:700;
+}
+
+#award {
+   position: fixed;
+   bottom:30px;
+   right:15px;
+}
+
+.button2 {
+   display: inline-block;
+   padding: 15px 8px;
+   font-size: 16px;
+   cursor: pointer;
+   text-align: center;
+   text-decoration: none;
+   outline: none;
+   color: black;
+   background-color: Transparent;
+   border: none;
+   border-radius: 15px; 
+   border: 2px solid black;
+   margin-top: 25px;
+}
+
+.button2:hover {
+   background-color: gray;
+   color:white;
+   border: 2px solid white;
+}

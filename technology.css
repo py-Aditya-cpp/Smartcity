@@ -1,0 +1,202 @@
+#all{
+    margin: 0px auto;
+    width:1200px;
+}
+#banner{
+    font-family:'Times New Roman',Times,serif;
+    font-size:16px;
+}
+
+#banner h1{
+    text-align:center;
+    font-size: 3.5em;
+    font-weight:900;  
+    font-family: sans-serif;
+}
+
+#banner h2{
+    text-align:center;
+    font-size: 1.5em;
+    font-weight:700;  
+    font-family: sans-serif;
+}
+
+
+#header{
+    border: 1px;
+    background-color:blue;	
+	width: auto;
+	padding: 60px;
+	padding-top:30px;
+	padding-bottom:30px;
+	background: url(http://www.imshealth.com/files/web/Images%20Common/background-Abstractnetwork-contactpanel.jpg) no-repeat fixed ; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+	text-align:center;
+}
+
+#main{
+	background: url(http://thecutestblogontheblock.com/wp-content/uploads/2011/11/hilltop-hideaway-free-stretch-blog-background-wood.jpg) no-repeat fixed ; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+	width:1200px;
+	height:100%;
+}
+
+
+#main h3{
+	text-align:center;
+    font-size: 2.5em;
+    font-weight:700;  
+    font-family: Georgia;
+    color: #fdb827;
+}
+
+.listtab1 p{
+    font-size: 19px;
+    margin-left:16%;
+    text-align:left;
+}
+
+.pic5{
+	width:500px;
+	height:300px;
+	margin-left:40px;
+	margin-bottom:20px;
+	border-style: ridge;
+	border-width: 18px;
+}
+
+#lifeh{
+	color:#fdb827;
+	margin-left:65px;
+	text-align:center;
+	font-size:1.5em;
+	font-weight:500;
+	font-family:Arial Black;
+}
+
+.p1{
+	font-family:Courier New;
+	width:500px;	
+}
+
+.listtab table{
+	background-color:#084897; 
+	width:100%;	
+}
+
+.listtab p{
+    font-size: 19px;
+    margin-left:8%;
+    text-align:left;
+}
+
+.pic6{
+	width:300px;
+	height:300px;
+	margin-left: 2%;
+	margin-bottom: 30px;
+	border-style: ridge;
+	border-width: 18px;
+}
+
+#lifeh1{
+	color:#fdb827;
+	margin-left: 10%;
+	width:80%;
+	font-size:1.5em;
+	font-weight:500;
+	font-family:Arial Black;
+}
+
+.p2{
+    font-family:Courier New;
+    width:300px;
+}
+
+#header9{
+    border: 1px;
+    background-color:blue;	
+	width: auto;
+	padding: 20px;
+	padding-top:5px;
+	padding-bottom:5px;
+	background: url(https://static.pexels.com/photos/6579/pexels-photo-large.jpeg) no-repeat fixed ; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+	text-align:center;
+}
+
+#header9 h4{
+	text-align:center;
+    font-size: 2.5em;
+    font-family: Arial Black;
+    color:white;
+}
+
+.button1 {
+    display: inline-block;
+    padding: 15px 28px;
+    font-size: 20px;
+    cursor: pointer;
+    text-align: center;
+    text-decoration: none;
+    outline: none;
+    color: white;
+    background-color: Transparent;
+    border: none;
+    border-radius: 15px; 
+    border: 2px solid white;
+    margin-top: px;
+}
+
+.button1:hover {
+	background-color: gray;
+	color:white;
+	border: 2px solid gray;
+}
+	
+#bottom{
+	width: 1160px;
+	padding: 20px;
+	padding-bottom:5px;
+	background-color: #fdb827;
+	text-align:center;
+	font-size:0.9em;
+	font-weight:700;
+}
+
+#award {
+    position: fixed;
+    bottom:30px;
+    right:15px;
+}
+
+.button2 {
+    display: inline-block;
+    padding: 15px 8px;
+    font-size: 16px;
+    cursor: pointer;
+    text-align: center;
+    text-decoration: none;
+    outline: none;
+    color: black;
+    background-color: Transparent;
+    border: none;
+    border-radius: 15px; 
+    border: 2px solid black;
+    margin-top: 25px;
+}
+
+.button2:hover {
+	background-color: gray;
+	color:white;
+	border: 2px solid white;
+}

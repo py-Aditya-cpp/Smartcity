@@ -1,0 +1,266 @@
+#all{
+    margin: 0px auto;
+    width:1200px;
+}
+
+#banner{
+    font-family:'Times New Roman',Times,serif;
+    font-size:16px;
+}
+
+#banner h1{
+    text-align:center;
+    font-size: 3.5em;
+    font-weight:900;  
+    font-family: sans-serif;
+}
+
+#banner h2{
+    text-align:center;
+    font-size: 1.5em;
+    font-weight:700;  
+    font-family: sans-serif;
+}
+
+#head{
+    border: 1px;
+    background-color:  blue;	
+	width: auto;
+	padding: 60px;
+	padding-top:30px;
+	padding-bottom:30px;
+	background: url(http://www.imshealth.com/files/web/Images%20Common/background-Abstractnetwork-contactpanel.jpg) no-repeat fixed ; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+	text-align:center;
+}
+
+#header{
+    border: 1px;
+    background-color:  blue;	
+	width: auto;	
+	padding-top:300px;
+	padding-bottom:300px;
+	background: url(123.jpg) no-repeat fixed ; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+	text-align:center;
+}
+
+#header h1{
+	font-size: 5em;
+	font-weight:700;  
+	font-family: Arial Black;
+	color:white;
+	width:1200px;
+	margin-left:;
+}
+
+#header h2{
+	color:white;
+	width:1000px;
+	margin-left:8%;
+}
+
+.button {
+    display: inline-block;
+    padding: 15px 25px;
+    font-size: 24px;
+    cursor: pointer;
+    text-align: center;
+    text-decoration: none;
+    outline: none;
+    color: white;
+    background-color: Transparent;
+    border: none;
+    border-radius: 15px;
+    border: 2px solid white;
+    margin-top: 100px;
+}
+
+.button:hover {
+	background-color: gray;	
+}
+
+#rightside{
+	width:auto; 
+    height:100%;    
+	background-color:white;
+	text-align:left;
+    font-size: 1.5em;
+    font-weight:700;  
+    font-family: sans-serif;
+}
+
+#rightside img{
+	margin-top: 50px;
+}
+
+#rightside h4{
+	font-size: 3em;
+    font-weight:700;  
+    font-family: sans-serif;
+    text-align:center;
+}
+
+#rightside h1{
+	font-size: 0.7em;
+	margin-left: 110px;
+	font-family: sans-serif;
+}
+
+#rightside h5{
+	font-size: 3em;
+    font-weight:700;  
+    font-family: sans-serif;
+    text-align:center;
+}
+
+#header2{
+    border: 1px;
+    background-color:  blue;	
+	width: auto;
+	padding: 80px;
+	padding-top:80px;
+	padding-bottom:80px;
+	background: url(http://gfxzone.net/wp-content/uploads/2014/06/main-background1.jpg) no-repeat fixed ; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+	text-align:left;	
+}
+
+#header2 h6{
+	font-size: 3.5em;
+    font-weight:700;  
+    font-family: Arial Black;
+}
+
+.list {
+	font-size: 0.4em;
+	display:inline-block;
+	margin-top: 10px;
+}
+
+.list1 {
+	font-size: 0.4em;
+	display:inline-block;
+	margin-left: 150px;
+	margin-top: 10px;
+}
+
+.button1 {
+    display: inline-block;
+    padding: 15px 8px;
+    font-size: 16px;
+    cursor: pointer;
+    text-align: center;
+    text-decoration: none;
+    outline: none;
+    color: black;
+    background-color: Transparent;
+    border: none;
+    border-radius: 15px; 
+    border: 2px solid black;
+    margin-top: 25px;
+    margin-left: 38%;
+}
+
+.button1:hover {
+	background-color: gray;
+	color:white;
+	border: 2px solid gray;
+}
+	
+#header3{
+    border: 1px;
+    background-color:  blue;	
+	width: auto;
+	padding: 60px;
+	padding-top:60px;
+	padding-bottom:60px;
+	background: url(http://thecutestblogontheblock.com/wp-content/uploads/2011/11/hilltop-hideaway-free-stretch-blog-background-wood.jpg) no-repeat fixed ; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+	text-align:center;	
+}
+
+#header3 h1{
+	font-size: 3.5em;
+	font-weight:700;  
+	font-family: Verdana;
+}
+
+#header3 p{
+	font-size: 2em;
+    font-weight:;  
+    font-family: sans-serif;
+    text-align:center;
+}
+
+.button2 {
+    display: inline-block;
+    padding: 8px 18px;
+    font-size: 16px;
+    cursor: pointer;
+    text-align: center;
+    text-decoration: none;
+    outline: none;
+    color: black;
+    background-color: Transparent;
+    border: none;
+    border-radius: 15px; 
+    border: 2px solid black;
+    margin-top: 25px;
+}
+
+.button2:hover {
+	background-color: gray;
+	color:white;
+	border: 2px solid white;
+}
+
+#bottom{
+    width: 100%;
+	padding: 20px;
+	padding-bottom:5px;
+	background-color: #fdb827;
+	text-align:center;
+	font-size:0.9em;
+	font-weight:700;	
+}
+
+#award {
+    position: fixed;
+    bottom:35px;
+    right:15px;
+}
+
+.button3{
+    display: inline-block;
+    padding: 10px 8px;
+    font-size: 16px;
+    cursor: pointer;
+    text-align: center;
+    text-decoration: none;
+    outline: none;
+    color: black;
+    background-color: Transparent;
+    border: none;
+    border-radius: 15px; 
+    border: 2px solid black;
+    margin-top: 25px;
+}
+
+.button3:hover {
+	background-color: gray;
+	color:white;
+	border: 2px solid white;
+}
